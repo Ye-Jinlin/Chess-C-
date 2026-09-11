@@ -1,2 +1,2 @@
-# Chess-C-
+# ChessInCSharp
 Recreation of Chess
